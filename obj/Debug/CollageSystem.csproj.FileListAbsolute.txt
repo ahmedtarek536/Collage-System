@@ -1,0 +1,7 @@
+D:\C#\CollageSystem\obj\Debug\CollageSystem.csproj.AssemblyReference.cache
+D:\C#\CollageSystem\obj\Debug\CollageSystem.csproj.CoreCompileInputs.cache
+D:\C#\CollageSystem\bin\Debug\CollageSystem.exe.config
+D:\C#\CollageSystem\bin\Debug\CollageSystem.exe
+D:\C#\CollageSystem\bin\Debug\CollageSystem.pdb
+D:\C#\CollageSystem\obj\Debug\CollageSystem.exe
+D:\C#\CollageSystem\obj\Debug\CollageSystem.pdb

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CollageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|D:\\C#\\CollageSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|D:\\C#\\CollageSystem\\soluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|solutionrelative:soluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|d:\\c#\\collagesystem\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|solutionrelative:assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|D:\\C#\\CollageSystem\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|D:\\C#\\CollageSystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83880499-4A63-43BD-B2BA-78EAA6F1053D}|CollageSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soluation.cs",
+              "DocumentMoniker": "D:\\C#\\CollageSystem\\Soluation.cs",
+              "RelativeDocumentMoniker": "Soluation.cs",
+              "ToolTip": "D:\\C#\\CollageSystem\\Soluation.cs",
+              "RelativeToolTip": "Soluation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:24:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "D:\\C#\\CollageSystem\\Assignment.cs",
+              "RelativeDocumentMoniker": "Assignment.cs",
+              "ToolTip": "D:\\C#\\CollageSystem\\Assignment.cs",
+              "RelativeToolTip": "Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:22:55.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\C#\\CollageSystem\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "D:\\C#\\CollageSystem\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:20:34.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#\\CollageSystem\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\C#\\CollageSystem\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:06:16.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CollageSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\CollageSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAADwv6UAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:54:36.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
